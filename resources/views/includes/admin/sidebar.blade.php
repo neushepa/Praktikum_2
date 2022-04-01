@@ -36,6 +36,20 @@
             </a>
           </li>
 
+          <li>
+            <a href="/list-article">
+              <i class="nc-icon nc-tile-56"></i>
+              <p>Blog</p>
+            </a>
+          </li>
+
+          <li>
+            <a href="/list-article">
+              <i class="nc-icon nc-tile-56"></i>
+              <p>Blog Duaaaa</p>
+            </a>
+          </li>
+
         </ul>
       </div>
     </div>
